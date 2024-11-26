@@ -17,6 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saquib-anjum&show_icons=true&locale=en" alt="saquib-anjum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saquib-anjum&" alt="saquib-anjum" /></p>
-![image](https://github.com/user-attachments/assets/d9a4b2ec-9f9c-4833-ab20-cb654df70078)
+
 
 
