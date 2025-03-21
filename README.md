@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saquib Anjum</h1>
 <h3 align="center">💻 Aspiring Web Developer with a passion for crafting seamless, user-friendly experiences. My code is a canvas, and I enjoy painting it with the vibrant colors of creativity.</h3>
 
-<img align="right" alt="coding" width="365" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=saquib-anjum&label=Profile%20views&color=0e75b6&style=flat" alt="saquib-anjum" /> 
@@ -76,7 +76,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />
-  <br>
+  
   <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=486&card_height=189" alt="GitHub Streak" />
 </div>
 
@@ -85,13 +85,13 @@
 ### 🌟 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/saquib-anjum" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/saquib_anjum" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:saquib.anjum@example.com" target="_blank">
+  <a href="mailto:" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
