@@ -68,7 +68,7 @@
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>  <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />>
+    </a>  <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />
   </p>
 
 
@@ -77,11 +77,10 @@
 
 
 <p align="left" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib-Anjum&theme=shades-of-purple&hide_border=true" alt="Saquib-Anjum's GitHub Stats" />
+
   
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=486&card_height=189)](https://git.io/streak-stats)
  
 </p>
 
