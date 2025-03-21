@@ -80,7 +80,7 @@
 
   
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=486&card_height=189)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=486&card_height=189)]
  
 </p>
 
