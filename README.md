@@ -78,14 +78,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />
   <img align="right" alt="coding" width="365" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
   <br>
-  <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=450&card_height=189" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=455&card_height=189" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🌟 Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
