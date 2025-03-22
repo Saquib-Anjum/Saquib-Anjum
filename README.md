@@ -70,19 +70,22 @@
   </a>
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />
-  <img align="right" alt="coding" width="365" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=455&card_height=189" alt="GitHub Streak" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=455&card_height=189" alt="GitHub Streak" />
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img align="right" alt="coding" width="365" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+  </div>
 </div>
 
 ---
-
 ### 🌟 Let's Connect!
 
 <p align="center">
