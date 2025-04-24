@@ -1,4 +1,4 @@
-![logo](https://github.com/Saquib-Anjum/Saquib-Anjum/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner%20(7).png)
+![logo](https://github.com/Saquib-Anjum/Saquib-Anjum/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner%20(3).png)
 
 <h1 align="center">Hi 👋, I'm Saquib Anjum</h1>
 <h3 align="center">💻 Aspiring Web Developer with a passion for crafting seamless, user-friendly experiences. My code is a canvas, and I enjoy painting it with the vibrant colors of creativity.</h3>
