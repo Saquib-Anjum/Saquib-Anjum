@@ -88,7 +88,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Saquib-Anjum&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="Saquib-Anjum's GitHub Stats" />
-  <img align="right" alt="coding" width="365" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+  <img align="right" alt="coding" width="365" src="https://github.com/Saquib-Anjum/Capture-Haven/blob/main/Result/Untitled%20design.gif">
   <br>
 
   <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=455&card_height=189" alt="GitHub Streak" />
