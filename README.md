@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,33:1a1a2e,66:16213e,100:0f3460&height=160&section=header&text=Saquib%20Anjum&fontSize=48&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer&descSize=16&descAlignY=88&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,33:1a1a2e,66:16213e,100:0f3460&height=160&section=header&text=Saquib%20Anjum&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer&descSize=16&descAlignY=88&descColor=8b949e&animation=fadeIn"/>
 
 <br/>
 
@@ -88,7 +88,7 @@ Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, R
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=455&card_height=190" alt="GitHub Streak" />
  
-<img width="40%" height="200px" src="https://capsule-render.vercel.app/api?type=speech&height=300&color=0:0d1117,33:141414,66:1c1c1c,100:242424&text=Ship%20Fast.&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Refactor%20Relentlessly.&descSize=28&descColor=58a6ff&descAlignY=65&animation=fadeIn"/>
+<img width="40%" src="https://capsule-render.vercel.app/api?type=speech&height=400&color=0:0d1117,33:141414,66:1c1c1c,100:242424&text=Ship%20Fast.&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Refactor%20Relentlessly.&descSize=28&descColor=58a6ff&descAlignY=65&animation=fadeIn"/>
 
 
   
