@@ -16,7 +16,7 @@
 
 ## ⚡ About Me
 
-Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, React) • 🚀 Building scalable apps • ✨ Clean code enthusiast
+Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, React) • 🚀 Building scalable apps • ✨ Clean code 
 
 ---
 
