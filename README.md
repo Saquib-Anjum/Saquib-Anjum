@@ -85,14 +85,10 @@ Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, R
 ---
 
 ## 📊 GitHub Stats
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Saquib-Anjum&theme=black-ice&card_width=455&card_height=190" alt="GitHub Streak" />
  
-<img width="40%" src="https://capsule-render.vercel.app/api?type=speech&height=400&color=0:0d1117,33:141414,66:1c1c1c,100:242424&text=Ship%20Fast.&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Refactor%20Relentlessly.&descSize=28&descColor=58a6ff&descAlignY=65&animation=fadeIn"/>
-
-
-  
- 
+<img width="40%" src="https://capsule-render.vercel.app/api?type=speech&height=450&color=0:0d1117,33:141414,66:1c1c1c,100:242424&text=Ship%20Fast.&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Refactor%20Relentlessly.&descSize=28&descColor=58a6ff&descAlignY=65&animation=fadeIn"/>
 </div>
 
 ---
