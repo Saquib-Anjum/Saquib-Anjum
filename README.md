@@ -1,14 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,33:1a1a2e,66:16213e,100:0f3460&height=160&section=header&text=Saquib%20Anjum&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer&descSize=16&descAlignY=88&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://github.com/Saquib-Anjum/Saquib-Anjum/blob/main/SAQUIB%20ANJUM%20GitHub%20banner.gif"/>
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=MERN+Stack+%7C+JavaScript+%7C+Node.js+%7C+React;Building+scalable+apps+%26+automation+tools.;Clean+code.+Real+solutions.+Always+shipping.)](https://git.io/typing-svg)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saquib-anjum&style=flat-square&color=1f6feb&label=profile+views)
+
 &nbsp;&nbsp;
 </div>
 
@@ -101,7 +100,7 @@ Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, R
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff)](https://twitter.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Saquib-Anjum)
-
+![Profile Views](https://komarev.com/ghpvc/?username=saquib-anjum&style=flat-square&color=1f6feb&label=profile+views)
 </div>
 
 
