@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/Saquib-Anjum/Saquib-Anjum/blob/main/github%20banner%20but%20linkedIn%20like%20banner%20(2).png"/>
+<img width="100%" src="https://github.com/Saquib-Anjum/Saquib-Anjum/blob/main/github%20banner%20but%20linkedIn%20like%20banner.png"/>
 
 <br/>
 
