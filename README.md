@@ -92,16 +92,27 @@ Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, R
 
 ---
 
-## 🌐 Connect
+## 🌐 Important Links 🔗
 
-<div align="center">
+<p align="center">
+  <a href="https://saquib-anjum.github.io/DevJargons/">
+    <img src="https://img.shields.io/badge/DevJargons-Learning_Path-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white" alt="DevJargons" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/saquib-anjum">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://saquib-anjum.github.io/DevJargons/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff)](https://twitter.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Saquib-Anjum)
-![Profile Views](https://komarev.com/ghpvc/?username=saquib-anjum&style=flat-square&color=1f6feb&label=profile+views)
-</div>
+
 
 
 
