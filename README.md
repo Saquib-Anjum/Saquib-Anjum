@@ -13,9 +13,10 @@
 
 ---
 
+
 ## ⚡ About Me
 
-Hi 👋 I'm **Saquib Anjum** — 💻 Full-Stack Developer (JS, Node, MongoDB, React) • 🚀 Building scalable apps • ✨ Clean code 
+🚀 Software Developer building scalable applications, robust APIs & AI-powered products with TypeScript, Node.js, React, Next.js, PostgreSQL & AWS.
 
 ---
 
